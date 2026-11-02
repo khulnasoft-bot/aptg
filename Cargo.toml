@@ -24,7 +24,7 @@ hex = "0.4"
 bytes = "1.0"
 chrono = { version = "0.4", features = ["serde"] }
 openssl = "0.10"
-rustls = "0.21"
+rustls = "0.22"
 tokio-rustls = "0.24"
 rustls-pemfile = "1.0"
 x509-parser = "0.15"
